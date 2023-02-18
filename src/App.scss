@@ -1,0 +1,16 @@
+@import "../src/cscc/reset";
+@import "../src/cscc/wariables";
+@import "../src/cscc/mixins";
+
+@import url("https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,700;1,400&family=Bowlby+One+SC&family=Concert+One&family=Crete+Round:ital@0;1&family=Inconsolata:wght@400;500&family=Orbitron:wght@400;500&family=Prosto+One&family=Rubik+Distressed&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Almendra+Display&family=Arvo:ital,wght@0,700;1,400&family=Bowlby+One+SC&family=Concert+One&family=Crete+Round:ital@0;1&family=Inconsolata:wght@400;500&family=Orbitron:wght@400;500&family=Prosto+One&display=swap");
+
+body {
+  font-family: "Rubik Distressed", cursive;
+  background-image: $backgrounImage;
+  background-attachment: fixed;
+  height: 100vh;
+}
+p {
+  font-family: "Almendra Display", cursive;
+}
