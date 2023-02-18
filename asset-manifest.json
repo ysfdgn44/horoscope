@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ysfdgn44/horoscope.git/static/css/main.fcef4da5.css",
-    "main.js": "/ysfdgn44/horoscope.git/static/js/main.6c0a419b.js",
-    "static/media/logo.png": "/ysfdgn44/horoscope.git/static/media/logo.d6c42622bddf5a8e7575.png",
-    "index.html": "/ysfdgn44/horoscope.git/index.html",
-    "main.fcef4da5.css.map": "/ysfdgn44/horoscope.git/static/css/main.fcef4da5.css.map",
-    "main.6c0a419b.js.map": "/ysfdgn44/horoscope.git/static/js/main.6c0a419b.js.map"
+    "main.css": "/ysfdgn44/horoscope/static/css/main.fcef4da5.css",
+    "main.js": "/ysfdgn44/horoscope/static/js/main.f6d2289b.js",
+    "static/media/logo.png": "/ysfdgn44/horoscope/static/media/logo.d6c42622bddf5a8e7575.png",
+    "index.html": "/ysfdgn44/horoscope/index.html",
+    "main.fcef4da5.css.map": "/ysfdgn44/horoscope/static/css/main.fcef4da5.css.map",
+    "main.f6d2289b.js.map": "/ysfdgn44/horoscope/static/js/main.f6d2289b.js.map"
   },
   "entrypoints": [
     "static/css/main.fcef4da5.css",
-    "static/js/main.6c0a419b.js"
+    "static/js/main.f6d2289b.js"
   ]
 }
